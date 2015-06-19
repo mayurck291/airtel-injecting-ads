@@ -1,0 +1,13 @@
+
+ 1. Iphone setting clear Browser history & Data 
+ 2. connect to airtel BB ( Aarti - Wifi name)
+ 3. open myntra - result "its showing Ad"
+ 4. Step - 1
+ 5. connect to TATA PHoton max( iOS-Team Wifi name)
+ 6. open myntra - result "NO Ad"
+ 7. Step - 1
+ 8. Switch off wifi and connect to Vodafone 3g
+ 9. Open myntra - result "NO Ad"
+10. Step - 1
+11. Step - 2
+12. Step - 3 <o_o>
